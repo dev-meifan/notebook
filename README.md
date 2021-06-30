@@ -32,5 +32,7 @@ btn.addEventListentener('click', () => {
 ```js
 Symbol.for()
 Symbol.keyFor()
+Symbol.asyncIterator()
+Symbol.hasInstance()
 ...
 ```
