@@ -26,3 +26,11 @@ btn.addEventListentener('click', () => {
     console.log(this === window);
 });
 ```
+
+#### Symbol(TODO)
+
+```js
+Symbol.for()
+Symbol.keyFor()
+...
+```
