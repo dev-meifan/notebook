@@ -36,3 +36,9 @@ Symbol.asyncIterator()
 Symbol.hasInstance()
 ...
 ```
+
+#### URL编码方法
+- encodeURL()
+- encodeURLComponent()
+- decodeURL()
+- decodeURLComponent()
