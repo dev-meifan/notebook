@@ -42,3 +42,7 @@ Symbol.hasInstance()
 - encodeURLComponent()
 - decodeURL()
 - decodeURLComponent()
+
+#### 思考？
+
+js编程过程怎样更高效地使用内存？
